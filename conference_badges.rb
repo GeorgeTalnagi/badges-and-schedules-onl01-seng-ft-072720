@@ -12,7 +12,7 @@ end
 
 def assign_rooms(speakers)
   new_speakers = []
-  speakers.each
+  speakers.each do ||
   end
   return new_speakers
 end
